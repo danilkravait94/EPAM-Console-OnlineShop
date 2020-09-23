@@ -1,0 +1,16 @@
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\bin\Debug\netcoreapp3.1\EShop.exe
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\obj\Debug\netcoreapp3.1\EShop.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\obj\Debug\netcoreapp3.1\EShop.AssemblyInfoInputs.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\obj\Debug\netcoreapp3.1\EShop.AssemblyInfo.cs
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\bin\Debug\netcoreapp3.1\EShop.deps.json
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\bin\Debug\netcoreapp3.1\EShop.runtimeconfig.json
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\bin\Debug\netcoreapp3.1\EShop.runtimeconfig.dev.json
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\bin\Debug\netcoreapp3.1\EShop.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\bin\Debug\netcoreapp3.1\EShop.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\obj\Debug\netcoreapp3.1\EShop.csproj.CopyComplete
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\obj\Debug\netcoreapp3.1\EShop.dll
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\obj\Debug\netcoreapp3.1\EShop.pdb
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\obj\Debug\netcoreapp3.1\EShop.genruntimeconfig.cache
+C:\Users\Олег\source\repos\EpamProject\C#Essential\EShop\EShop\obj\Debug\netcoreapp3.1\EShop.csproj.CoreCompileInputs.cache
